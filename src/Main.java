@@ -4,7 +4,7 @@ import model.Model;
 import view.EditUserView;
 import view.UsersView;
 
-public class Solution {
+public class Main {
     public static void main(String[] args) {
         Model model = new MainModel();
         UsersView usersView = new UsersView();
